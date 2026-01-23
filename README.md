@@ -1,10 +1,10 @@
 ## 👋 Hi there I am Aidan! 
 
-- 🎓 I am currently pursuing a degree in computer science.<br>
-- ⚙️ I am learning C# and the .NET ecosystem.<br>
+- 🎓 Pursuing a degree in computer science.<br>
+- ⚙️ Learning C# and the .NET ecosystem.<br>
 - 📫 You can reach me at aidan.maloney062@gmail.com.<br>
 - 🎴 Outside of tech I am passionate about trading card games and maps!<br>
-- 🧠 I am currently looking for summer and fall internship/co-op opportunities!
+- 🧠 Currently looking for summer and fall internship/co-op opportunities!
 
 <!--
 **amalon1/amalon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
