@@ -1,11 +1,10 @@
-## 👋 Hi there! 
+## 👋 Hi there I am Aidan! 
 
-🎓 I am Aidan and I am currently pursuing a degree at the University of Guelph with a major in computer science and minor in statistics.<br>
+🎓 I am currently pursuing a degree in computer science.<br>
 ⚙️ I am learning C# and the .NET ecosystem.<br>
-🏫 I have done extensive school work in C and Java.<br>
 📫 You can reach me at aidan.maloney062@gmail.com.<br>
-🧠 I am currently looking for summer and fall internship/co-op opportunities!<br>
 🎴 Outside of tech I am passionate about trading card games and maps!
+🧠 I am currently looking for summer and fall internship/co-op opportunities!<br>
 
 <!--
 **amalon1/amalon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
