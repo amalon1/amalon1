@@ -1,6 +1,6 @@
 ## 👋 Hi there I am Aidan! 
 
-- 🎓 Pursuing a degree in computer science.<br>
+- 🎓 I am pursuing a degree in computer science.<br>
 - ⚙️ Learning C# and the .NET ecosystem.<br>
 - 📫 You can reach me at aidan.maloney062@gmail.com.<br>
 - 🎴 Outside of tech I am passionate about trading card games and maps!<br>
