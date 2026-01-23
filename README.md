@@ -1,6 +1,6 @@
 ## 👋 Hi there! 
 
-🎓 I am Aidan and I am currently pursuing a Bachelors degree at the University of Guelph with a major in computer science and minor in statistics.<br>
+🎓 I am Aidan and I am currently pursuing a degree at the University of Guelph with a major in computer science and minor in statistics.<br>
 ⚙️ I am learning C# and the .NET ecosystem.<br>
 🏫 I have done extensive school work in C and Java.<br>
 📫 You can reach me at aidan.maloney062@gmail.com.<br>
